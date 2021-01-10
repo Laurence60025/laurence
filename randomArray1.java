@@ -3,6 +3,7 @@ package xxx;
 public class randomArray1 {
 
 	public static void main(String[] args){
+		int test=0;
 		int x[][] = new  int [3][3];
 		int y[][] = new  int [3][3];
 		int z[][] = new  int [3][3];
